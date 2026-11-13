@@ -33,7 +33,6 @@ class Heap:
 
             self.arreglo[i], self.arreglo[hijo_min] = self.arreglo[hijo_min], self.arreglo[i]
             i = hijo_min
-
     def insert(self, valor, imagen=False):
         self.arreglo.append(valor)
         self._sift_up(len(self.arreglo) - 1)
