@@ -221,3 +221,14 @@ Escanea el código QR o entra directamente al enlace para consultar tus notas:
 - Fecha: Jueves 19 de noviembre
 - Hora: 7 - 9 AM
 - Lugar: Universidad Externado de Colombia, D304
+
+
+
+## Entrega Notas
+
+Buenos días. Sus notas se encuentran en el link respectivo para que las puedan consultar. En este momento no aparecen las notas definitivas, sin embargo con la información allí depositada la pueden ver.
+1. Tener presente que la peor nota de lo hecho en clase será omitida y los porcentajes respectivos del microcurriculo.
+En caso de que alguien quiera revisar sus parciales nos vemos en la sala de lectura del edificio C de 2 a 3, exactamente abajo de Pitágoras.
+
+1. En su nota de clase fue quitada la peor nota
+2. En caso de no poder asistir, puiede escribir por teams.
